@@ -12,10 +12,10 @@ To run the code in this repository, you will need:
 
 * Python 3.7 or higher
 * NumPy
-* pandas
-* scikit-learn
-* matplotlib
-* seaborn
+* Pandas
+* Scikit-learn
+* Matplotlib
+* Seaborn
 ## Usage
 To use the code in this repository, follow these steps:
 
