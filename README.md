@@ -14,11 +14,13 @@ To run the code in this repository, you will need:
 * NumPy
 * pandas
 * scikit-learn
+* matplotlib
+* seaborn
 ## Usage
 To use the code in this repository, follow these steps:
 
 * Clone the repository to your local machine
-* Install the required libraries (NumPy, pandas, scikit-learn)
+* Install the required libraries
 * Open the Jupyter notebook and run the code cells to understand how linear regression works and how to implement it in Python
 * Use the provided python script and functions to perform linear regression on your own datasets
 ## References
